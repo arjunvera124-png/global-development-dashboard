@@ -1,3 +1,4 @@
+
 # 🌍 Did Globalization Reduce Global Inequality?
 
 A Multi-Indicator, Multi-Decade Visual Analysis of Global Development Trajectories
